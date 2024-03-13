@@ -1,0 +1,20 @@
+@import url('./fonts.css');
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Nunito;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	min-height: 100vh;
+	position: relative;
+}
+
+.dark body {
+	background-color: hsl(230, 17%, 14%);
+}
