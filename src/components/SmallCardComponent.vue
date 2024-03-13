@@ -1,6 +1,6 @@
 <template>
 	<div
-		class="bg-slate-300 dark:bg-slate-900 rounded-md shadow-md p-10 flex flex-col gap-3"
+		class="bg-slate-300 dark:bg-slate-900 rounded-md shadow-md p-10 flex flex-col gap-3 hover:opacity-75 hover:cursor-pointer"
 	>
 		<section class="flex justify-between items-center">
 			<span class="font-semibold text-slate-800 dark:text-slate-400">{{

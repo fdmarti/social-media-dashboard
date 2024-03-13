@@ -1,6 +1,6 @@
 <template>
 	<div
-		class="py-10 px-20 bg-slate-300 dark:bg-slate-900 rounded-md border-t-[3px] shadow-md"
+		class="py-10 px-20 bg-slate-300 dark:bg-slate-900 rounded-md border-t-[3px] shadow-md hover:opacity-75 hover:cursor-pointer"
 		:class="color"
 	>
 		<section class="flex p-2 justify-center gap-3 items-center">
